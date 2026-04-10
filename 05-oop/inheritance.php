@@ -1,7 +1,5 @@
 <?php
 
-<?php
-
 class LayananKurir {
     public string $nomorResi;
     protected int $hargaDasar = 10000;
